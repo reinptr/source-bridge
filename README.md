@@ -3,5 +3,7 @@ Interest with others repo, n i think to linked it to my profile.
 
 ## 📚 Interesting Projects
 
+### MTPy
 - [MTPy Open Source](https://github.com/MTgeophysics/mtpy.git)
+- [Journal about](https://drive.google.com/drive/folders/1vj-MzDp5PGxHk2ZN3qplqeMMxfYAVP3C)
 
